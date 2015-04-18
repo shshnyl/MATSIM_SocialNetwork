@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<!DOCTYPE groups SYSTEM "input/dtd/groups.dtd">
+<groups>
+  <!--================================-->
+  <households>
+    <household id="4003898">
+      <member id="40038981"/>
+    </household>
+    <household id="4004614">
+      <member id="40046141"/>
+      <member id="40046142"/>
+      <member id="40046143"/>
+      <member id="40046144"/>
+      <member id="40046145"/>
+      <member id="40046146"/>
+    </household>
+    <household id="4004900">
+      <member id="40049001"/>
+      <member id="40049002"/>
+    </household>
+    <household id="4027637">
+      <member id="40276371"/>
+    </household>
+    <household id="4034935">
+      <member id="40349351"/>
+    </household>
+    <household id="4038211">
+      <member id="40382112"/>
+    </household>
+    <household id="4044334">
+      <member id="40443341"/>
+    </household>
+    <household id="4118669">
+      <member id="41186691"/>
+      <member id="41186692"/>
+      <member id="41186693"/>
+    </household>
+    <household id="4141812">
+      <member id="41418121"/>
+      <member id="41418122"/>
+      <member id="41418123"/>
+    </household>
+    <household id="4152423">
+      <member id="41524231"/>
+    </household>
+    <household id="4154743">
+      <member id="41547431"/>
+      <member id="41547432"/>
+    </household>
+    <household id="4157844">
+      <member id="41578441"/>
+    </household>
+    <household id="4159561">
+      <member id="41595611"/>
+      <member id="41595612"/>
+    </household>
+    <household id="4159887">
+      <member id="41598871"/>
+      <member id="41598872"/>
+    </household>
+    <household id="4160785">
+      <member id="41607851"/>
+      <member id="41607853"/>
+    </household>
+    <household id="4193000">
+      <member id="41930001"/>
+      <member id="41930004"/>
+    </household>
+    <household id="4195203">
+      <member id="41952031"/>
+      <member id="41952032"/>
+      <member id="41952033"/>
+    </household>
+    <household id="4244014">
+      <member id="42440141"/>
+    </household>
+    <household id="4246810">
+      <member id="42468101"/>
+    </household>
+    <household id="4246821">
+      <member id="42468211"/>
+      <member id="42468212"/>
+      <member id="42468213"/>
+    </household>
+    <household id="4250842">
+      <member id="42508421"/>
+    </household>
+    <household id="4252376">
+      <member id="42523761"/>
+      <member id="42523762"/>
+    </household>
+    <household id="4253381">
+      <member id="42533811"/>
+      <member id="42533812"/>
+    </household>
+    <household id="4254703">
+      <member id="42547031"/>
+    </household>
+    <household id="4256424">
+      <member id="42564241"/>
+    </household>
+    <household id="4262006">
+      <member id="42620061"/>
+      <member id="42620062"/>
+    </household>
+    <household id="4295632">
+      <member id="42956321"/>
+      <member id="42956322"/>
+      <member id="42956323"/>
+      <member id="42956324"/>
+      <member id="42956325"/>
+    </household>
+    <household id="4295935">
+      <member id="42959351"/>
+    </household>
+    <household id="4298196">
+      <member id="42981961"/>
+      <member id="42981963"/>
+      <member id="42981964"/>
+      <member id="42981965"/>
+      <member id="42981966"/>
+      <member id="42981967"/>
+    </household>
+    <household id="4303932">
+      <member id="43039321"/>
+    </household>
+    <household id="4305489">
+      <member id="43054891"/>
+    </household>
+    <household id="4305687">
+      <member id="43056871"/>
+      <member id="43056872"/>
+      <member id="43056873"/>
+    </household>
+    <household id="4306957">
+      <member id="43069571"/>
+      <member id="43069572"/>
+    </household>
+    <household id="4307541">
+      <member id="43075411"/>
+      <member id="43075412"/>
+      <member id="43075414"/>
+      <member id="43075415"/>
+    </household>
+    <household id="4308908">
+      <member id="43089081"/>
+      <member id="43089082"/>
+    </household>
+    <household id="4309117">
+      <member id="43091171"/>
+    </household>
+    <household id="4309548">
+      <member id="43095481"/>
+    </household>
+    <household id="4314517">
+      <member id="43145171"/>
+    </household>
+    <household id="4314691">
+      <member id="43146911"/>
+    </household>
+    <household id="4315124">
+      <member id="43151241"/>
+      <member id="43151242"/>
+    </household>
+    <household id="4315751">
+      <member id="43157511"/>
+    </household>
+    <household id="4316478">
+      <member id="43164781"/>
+      <member id="43164782"/>
+      <member id="43164783"/>
+      <member id="43164784"/>
+    </household>
+    <household id="4317484">
+      <member id="43174841"/>
+      <member id="43174842"/>
+      <member id="43174843"/>
+      <member id="43174844"/>
+    </household>
+    <household id="4317601">
+      <member id="43176011"/>
+      <member id="43176012"/>
+      <member id="43176013"/>
+      <member id="43176014"/>
+    </household>
+    <household id="4317609">
+      <member id="43176091"/>
+      <member id="43176092"/>
+      <member id="43176093"/>
+      <member id="43176094"/>
+      <member id="43176095"/>
+    </household>
+    <household id="4318055">
+      <member id="43180551"/>
+    </household>
+    <household id="4318895">
+      <member id="43188952"/>
+    </household>
+    <household id="4323883">
+      <member id="43238831"/>
+    </household>
+    <household id="4328053">
+      <member id="43280531"/>
+      <member id="43280532"/>
+      <member id="43280533"/>
+      <member id="43280534"/>
+    </household>
+    <household id="4584285">
+      <member id="45842851"/>
+      <member id="45842852"/>
+      <member id="45842853"/>
+    </household>
+    <household id="4584300">
+      <member id="45843001"/>
+      <member id="45843002"/>
+      <member id="45843003"/>
+    </household>
+    <household id="4584344">
+      <member id="45843441"/>
+    </household>
+    <household id="4584593">
+      <member id="45845931"/>
+      <member id="45845932"/>
+    </household>
+    <household id="4625560">
+      <member id="46255601"/>
+      <member id="46255602"/>
+    </household>
+    <household id="4625615">
+      <member id="46256151"/>
+    </household>
+    <household id="4625640">
+      <member id="46256401"/>
+    </household>
+    <household id="4625644">
+      <member id="46256441"/>
+      <member id="46256442"/>
+    </household>
+    <household id="4625734">
+      <member id="46257341"/>
+    </household>
+    <household id="4625739">
+      <member id="46257391"/>
+      <member id="46257392"/>
+      <member id="46257393"/>
+    </household>
+    <household id="4625859">
+      <member id="46258591"/>
+      <member id="46258592"/>
+    </household>
+    <household id="4625888">
+      <member id="46258881"/>
+    </household>
+    <household id="4625891">
+      <member id="46258911"/>
+      <member id="46258912"/>
+    </household>
+    <household id="4625896">
+      <member id="46258961"/>
+      <member id="46258962"/>
+    </household>
+    <household id="4626028">
+      <member id="46260281"/>
+    </household>
+    <household id="4626214">
+      <member id="46262141"/>
+    </household>
+    <household id="4627118">
+      <member id="46271181"/>
+      <member id="46271182"/>
+      <member id="46271183"/>
+      <member id="46271184"/>
+    </household>
+    <household id="4627119">
+      <member id="46271191"/>
+    </household>
+    <household id="4627283">
+      <member id="46272831"/>
+    </household>
+    <household id="4629550">
+      <member id="46295501"/>
+      <member id="46295502"/>
+    </household>
+    <household id="4633881">
+      <member id="46338811"/>
+    </household>
+    <household id="4633920">
+      <member id="46339201"/>
+      <member id="46339202"/>
+    </household>
+    <household id="4655130">
+      <member id="46551301"/>
+    </household>
+    <household id="4663101">
+      <member id="46631011"/>
+    </household>
+    <household id="4663998">
+      <member id="46639981"/>
+      <member id="46639982"/>
+    </household>
+    <household id="4678475">
+      <member id="46784751"/>
+    </household>
+    <household id="4678694">
+      <member id="46786941"/>
+    </household>
+    <household id="4681809">
+      <member id="46818091"/>
+    </household>
+    <household id="4689684">
+      <member id="46896841"/>
+      <member id="46896842"/>
+      <member id="46896843"/>
+    </household>
+    <household id="4696234">
+      <member id="46962341"/>
+    </household>
+    <household id="4707382">
+      <member id="47073821"/>
+      <member id="47073822"/>
+    </household>
+    <household id="4707604">
+      <member id="47076041"/>
+      <member id="47076042"/>
+      <member id="47076043"/>
+      <member id="47076044"/>
+      <member id="47076045"/>
+    </household>
+    <household id="4709884">
+      <member id="47098841"/>
+    </household>
+    <household id="4723346">
+      <member id="47233461"/>
+      <member id="47233462"/>
+    </household>
+    <household id="4726412">
+      <member id="47264121"/>
+    </household>
+    <household id="4727074">
+      <member id="47270741"/>
+      <member id="47270742"/>
+    </household>
+    <household id="4728409">
+      <member id="47284092"/>
+      <member id="47284093"/>
+      <member id="47284094"/>
+    </household>
+    <household id="4754875">
+      <member id="47548751"/>
+    </household>
+  </households>
+  <!--================================-->
+  <clubs>
+    <club id="1">
+      <member id="41952032"/>
+      <member id="42468101"/>
+      <member id="43075414"/>
+      <member id="43164781"/>
+      <member id="43280532"/>
+      <member id="46271191"/>
+      <member id="46639981"/>
+      <member id="46639982"/>
+      <member id="47098841"/>
+    </club>
+    <club id="2">
+      <member id="40046143"/>
+      <member id="40046144"/>
+      <member id="41547432"/>
+      <member id="42956324"/>
+      <member id="43089081"/>
+      <member id="43176093"/>
+      <member id="46258961"/>
+      <member id="46295502"/>
+      <member id="47233461"/>
+    </club>
+    <club id="3">
+      <member id="40049001"/>
+      <member id="41607851"/>
+      <member id="42508421"/>
+      <member id="43146911"/>
+      <member id="43157511"/>
+      <member id="43164782"/>
+      <member id="46258592"/>
+      <member id="46271181"/>
+      <member id="46551301"/>
+    </club>
+    <club id="4">
+      <member id="41524231"/>
+      <member id="41598871"/>
+      <member id="42440141"/>
+      <member id="43069571"/>
+      <member id="43176011"/>
+      <member id="46257393"/>
+      <member id="46258912"/>
+      <member id="46784751"/>
+      <member id="46896843"/>
+      <member id="47548751"/>
+    </club>
+    <club id="5">
+      <member id="41418122"/>
+      <member id="43056871"/>
+      <member id="43151241"/>
+      <member id="46271183"/>
+    </club>
+    <club id="6">
+      <member id="41418121"/>
+      <member id="41595612"/>
+      <member id="41952031"/>
+      <member id="42468211"/>
+      <member id="42981964"/>
+      <member id="46258911"/>
+      <member id="46962341"/>
+      <member id="47264121"/>
+      <member id="47284094"/>
+    </club>
+    <club id="7">
+      <member id="41598872"/>
+      <member id="41607853"/>
+      <member id="42547031"/>
+      <member id="43056872"/>
+      <member id="43075415"/>
+      <member id="43095481"/>
+      <member id="43164784"/>
+      <member id="43176092"/>
+      <member id="45845931"/>
+      <member id="45845932"/>
+      <member id="46255602"/>
+      <member id="46256441"/>
+      <member id="46257392"/>
+      <member id="46818091"/>
+      <member id="47284092"/>
+    </club>
+    <club id="8">
+      <member id="42533811"/>
+      <member id="42981965"/>
+      <member id="43151242"/>
+      <member id="43180551"/>
+      <member id="45842851"/>
+      <member id="45842853"/>
+      <member id="46256401"/>
+      <member id="46256442"/>
+      <member id="47076043"/>
+    </club>
+    <club id="9">
+      <member id="41418123"/>
+      <member id="41952033"/>
+      <member id="43075411"/>
+      <member id="43091171"/>
+      <member id="43174841"/>
+      <member id="43174844"/>
+      <member id="43176094"/>
+      <member id="43280533"/>
+      <member id="45843001"/>
+    </club>
+    <club id="10">
+      <member id="41186692"/>
+      <member id="41186693"/>
+      <member id="41547431"/>
+      <member id="43174842"/>
+      <member id="43238831"/>
+      <member id="46256151"/>
+      <member id="46271184"/>
+    </club>
+    <club id="11">
+      <member id="40276371"/>
+      <member id="41595611"/>
+      <member id="43056873"/>
+      <member id="45843002"/>
+      <member id="46257341"/>
+    </club>
+    <club id="12">
+      <member id="42523761"/>
+      <member id="46260281"/>
+      <member id="46271182"/>
+      <member id="46295501"/>
+      <member id="46631011"/>
+      <member id="47076041"/>
+      <member id="47284093"/>
+    </club>
+    <club id="13">
+      <member id="40382112"/>
+      <member id="40443341"/>
+      <member id="41578441"/>
+      <member id="41930004"/>
+      <member id="42981966"/>
+      <member id="43089082"/>
+      <member id="46258962"/>
+      <member id="46339201"/>
+      <member id="46786941"/>
+    </club>
+    <club id="14">
+      <member id="42468213"/>
+      <member id="42564241"/>
+      <member id="43188952"/>
+      <member id="45842852"/>
+      <member id="46338811"/>
+      <member id="47076044"/>
+    </club>
+    <club id="15">
+      <member id="42533812"/>
+      <member id="43164783"/>
+      <member id="43280531"/>
+      <member id="43280534"/>
+      <member id="45843003"/>
+      <member id="46257391"/>
+      <member id="46896842"/>
+      <member id="47073822"/>
+      <member id="47076042"/>
+    </club>
+    <club id="16">
+      <member id="40046142"/>
+      <member id="40349351"/>
+      <member id="41930001"/>
+      <member id="42468212"/>
+      <member id="42620062"/>
+      <member id="42981961"/>
+      <member id="42981963"/>
+      <member id="43069572"/>
+      <member id="43176012"/>
+      <member id="46258881"/>
+      <member id="46262141"/>
+    </club>
+    <club id="17">
+      <member id="40038981"/>
+      <member id="40046141"/>
+      <member id="42523762"/>
+      <member id="42956322"/>
+      <member id="42959351"/>
+      <member id="43174843"/>
+      <member id="43176095"/>
+      <member id="46258591"/>
+      <member id="46272831"/>
+      <member id="47270742"/>
+    </club>
+    <club id="18">
+      <member id="41186691"/>
+      <member id="42620061"/>
+      <member id="43039321"/>
+      <member id="47073821"/>
+      <member id="47233462"/>
+    </club>
+    <club id="19">
+      <member id="40046145"/>
+      <member id="40046146"/>
+      <member id="43075412"/>
+      <member id="43145171"/>
+      <member id="43176091"/>
+      <member id="45843441"/>
+      <member id="46255601"/>
+      <member id="46339202"/>
+      <member id="47270741"/>
+    </club>
+    <club id="20">
+      <member id="40049002"/>
+      <member id="42956321"/>
+      <member id="42956323"/>
+      <member id="42956325"/>
+      <member id="42981967"/>
+      <member id="43054891"/>
+      <member id="43176013"/>
+      <member id="43176014"/>
+      <member id="46896841"/>
+      <member id="47076045"/>
+    </club>
+  </clubs>
+</groups>
